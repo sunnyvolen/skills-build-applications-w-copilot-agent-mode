@@ -1,5 +1,6 @@
 {
   "name": "frontend",
+  "description": "OctoFit Tracker frontend with React 19 and Vite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
